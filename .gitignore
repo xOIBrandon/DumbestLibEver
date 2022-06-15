@@ -1,0 +1,29 @@
+.DS_Store
+# OSX
+#
+.DS_Store
+AuthKey*
+
+# Xcode
+build/
+I/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+*.app/
+*.dSYM/
+*.dSYM.zip
+**/.build
