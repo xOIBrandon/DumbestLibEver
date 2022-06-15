@@ -5,7 +5,7 @@ public struct DumbestLibEver {
     self.message = message
   }
 
-  func sayMessage() -> String {
+  public func sayMessage() -> String {
     print(message)
     return message
   }
